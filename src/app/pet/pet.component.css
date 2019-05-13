@@ -1,0 +1,14 @@
+
+.icon {
+    display: inline-block;
+    height: 30px;
+    margin: 10px 10px 10px 10px auto;
+    padding-right: 10px;
+    text-align: center;
+    vertical-align: middle;
+    width: 15%;
+}
+
+span {
+    margin: 20px;
+}
